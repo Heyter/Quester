@@ -1,0 +1,6 @@
+"quester"
+{
+	"base"		"base"
+	"title"		"Quester"
+	"menusystem"	"1"
+}
